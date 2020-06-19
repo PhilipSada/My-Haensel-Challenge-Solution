@@ -7,4 +7,4 @@ This is my solution to the Haensel Recruitment Challenge for the Frontend WerkSt
 This project uses technologies such as Bootstrap, Dj3 and Netlify. Bootstrap and Dj3 were required to solve the challenge. Netlify was used to host the website which contains the solution to the challenge thereby making it easy to view the website on any device.
 
 ## Task Completed
-I was able to modify a bootstrap example to embed a d3.js histogram in a simple HTML page, according to a given design. A diagram and hints were provided to have clear picture of the task.
+I was able to modify a bootstrap example to embed a d3.js histogram in a simple HTML page, according to a given design. A diagram and hints were provided to have a clear picture of the task.
